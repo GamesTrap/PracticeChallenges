@@ -1,6 +1,5 @@
 # Practice Challenges
 
-[![Build Status](https://travis-ci.com/GamesTrap/PracticeChallenges.svg?branch=master)](https://travis-ci.com/GamesTrap/PracticeChallenges)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GamesTrap/PracticeChallenges)](https://github.com/GamesTrap/PracticeChallenges)
 [![GitHub repo size](https://img.shields.io/github/repo-size/GamesTrap/PracticeChallenges)](https://github.com/GamesTrap/PracticeChallenges)
 [![GitHub](https://img.shields.io/github/license/GamesTrap/PracticeChallenges)](https://github.com/GamesTrap/PracticeChallenges/blob/master/LICENSE)
